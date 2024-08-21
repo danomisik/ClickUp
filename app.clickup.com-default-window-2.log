@@ -1,0 +1,35 @@
+ Are you an exceptional Angular Engineer?Want to work on a product used and loved by millions of people?Then come and work for ClickUp!https://clickup.com/careers
+ NgrxStoreIdb: version matched.
+ allClient.js started loading at: 1724247018966
+ client.js fully loaded at: 1724247018969
+ ORAESSOstart at: 1724247018994
+ client.js loading
+ chromeCode adding message listener
+ Warning: fragment with name SearchResultFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+(anonymous) @ app-cdn.clickup.com/…82285c979b31aa.js:1
+ Datadog Browser SDK: The feature flag evaluation data exceeds the recommended 3KiB threshold. More details: https://docs.datadoghq.com/real_user_monitoring/browser/troubleshooting/#customer-data-exceeds-the-recommended-3kib-warning
+st @ app-cdn.clickup.com/…82285c979b31aa.js:1
+localhost:23435/is-comm-server-running:1 
+        
+        
+       Failed to load resource: net::ERR_CONNECTION_REFUSED
+127.0.0.1:23435/is-comm-server-running:1 
+        
+        
+       Failed to load resource: net::ERR_CONNECTION_REFUSED
+Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('<URL>') does not match the recipient window's origin ('<URL>').
+Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('<URL>') does not match the recipient window's origin ('<URL>').
+Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('<URL>') does not match the recipient window's origin ('<URL>').
+Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('<URL>') does not match the recipient window's origin ('<URL>').
+Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('<URL>') does not match the recipient window's origin ('<URL>').
+Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('<URL>') does not match the recipient window's origin ('<URL>').
+[Violation] 'setInterval' handler took <N>ms
+[Violation] 'setInterval' handler took <N>ms
+[Violation] 'setInterval' handler took <N>ms
+[Violation] 'setInterval' handler took <N>ms
+[Violation] 'setInterval' handler took <N>ms
+[Violation] 'setInterval' handler took <N>ms
+[Violation] Forced reflow while executing JavaScript took 183ms
+app-cdn.clickup.com/polyfills.ef60533980304a0c.js:1 [Violation] 'load' handler took 214ms
